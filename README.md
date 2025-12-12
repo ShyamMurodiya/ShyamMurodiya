@@ -45,7 +45,5 @@
 
 ---
 
-## 📸 Screenshots (optional)
-To show screenshots in README, add image files to this repo under `assets/` and then use:
-```md
-![Cup Of Caffeine screenshot](./assets/cup-of-caffeine.png)
+
+👋 Thanks for visiting! Feel free to explore my projects.
