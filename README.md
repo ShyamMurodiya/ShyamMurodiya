@@ -11,9 +11,8 @@ I'm a frontend developer who loves building clean UI and simple UX. I work with 
 - **Currently learning:** Next.js / Advanced React patterns
 
 ## 🔗 Links
-- Portfolio:https://shyam-s-portfolio-z6is.vercel.app/
-- Resume: https://drive.example/resume.pdf  
-- Email: you@example.com
+- Portfolio:https://shyam-s-portfolio-z6is.vercel.app/ 
+- Email: shyammurodiya@gmail.com
 
 ## ⭐ Featured Projects
 | Project | Tech | Demo |
