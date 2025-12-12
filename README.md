@@ -1,52 +1,51 @@
-# Hi, I'm <strong>Shyam </strong> 👋
+<!-- README.md for GitHub profile: ShyamMurodiya -->
+<!-- Replace or update any links/text after pasting if you want -->
 
-![visitors](https://img.shields.io/badge/Visitors-🌍-blue)
+<h1 align="left">Hi, I'm Shyam 👋</h1>
 
-## 🔭 About Me
-I'm a frontend developer who loves building clean UI and simple UX. I work with **HTML, CSS, JavaScript, React**. I like to keep projects small, useful, and well-documented.
+[![Visitor Count](https://komarev.com/ghpvc/?username=ShyamMurodiya&label=Profile%20Views&color=blue)](https://github.com/ShyamMurodiya)
 
-## 🛠️ Skills
+<p>
+  <strong>Frontend developer</strong> — I build clean UI and simple UX using React, Tailwind and modern JS tools.
+</p>
+
+---
+
+## 🔧 Skills
 - **Languages:** JavaScript, TypeScript, HTML, CSS, Python  
-- **Frameworks / Tools:** React, Vite, Tailwind, Git, GitHub  
+- **Frameworks / Tools:** React, Vite, Tailwind CSS, Git, GitHub  
 - **Currently learning:** Next.js / Advanced React patterns
 
+**Tech badges**
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+
+---
+
 ## 🔗 Links
-- Portfolio:https://shyam-s-portfolio-z6is.vercel.app/ 
+- Portfolio: https://shyam-s-portfolio-z6is.vercel.app/  
+- Live Cup of Caffeine: https://coc-ngp.vercel.app/  
+- Instagram: https://www.instagram.com/shyam_murodiya/  
+- LinkedIn: https://www.linkedin.com/in/shyam-murodiya-376109293/  
 - Email: shyammurodiya@gmail.com
 
+---
+
 ## ⭐ Featured Projects
-| Project | Tech | Demo |
-|---|---:|---|
-| [Project-A](https://github.com/your-username/project-a) | React, Vite | Live |
-| [Project-B](https://github.com/your-username/project-b) | vanilla JS | Live |
 
-## 📌 What I'm working on
-- Improving a markdown + code editor (link above).  
-- Learning server-side rendering with Next.js.
+| Project | Tech | Repo | Live |
+|---|---|---:|---:|
+| **Cup Of Caffeine** | React, Vite, Tailwind | [Repo](https://github.com/ShyamMurodiya/Cup-Of-Caffeine) | [Live](https://coc-ngp.vercel.app/) |
+| **Portfolio** | React, Vite, Tailwind | [Repo](https://github.com/ShyamMurodiya/shyam-s-Portfolio) | [Live](https://shyam-s-portfolio-z6is.vercel.app/) |
+| **QuickMeds** | React / Fullstack (online pharmacy) | [Repo](https://github.com/TanmayWarthe/QuickMeds-An-Online-Pharamacy) | — |
 
----
-
-## 📫 Get in touch
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)  
-- LinkedIn: [your name](https://linkedin.com/in/yourprofile)
+> ✅ Tip: add a screenshot for each project under `/assets/PROJECT_NAME.png` and then replace the demo link with an image tag under each project block to show a preview.
 
 ---
 
-## 📊 GitHub Stats
-![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true)
-
-<!-- Optional: top languages -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)
-**ShyamMurodiya/ShyamMurodiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📸 Screenshots (optional)
+To show screenshots in README, add image files to this repo under `assets/` and then use:
+```md
+![Cup Of Caffeine screenshot](./assets/cup-of-caffeine.png)
